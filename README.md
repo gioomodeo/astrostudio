@@ -20,4 +20,4 @@ Se Windows mostra «PC protetto da Windows», premi «Ulteriori informazioni» e
 Al primo avvio scrivi la chiave di licenza e premi «Attiva Software».
 Una nuova versione si installa sopra la precedente: i clienti e le impostazioni restano.
 
-Licenze e assistenza: support.astrostudio@gmail.com
+Licenze e assistenza: support.astrostudio.com@gmail.com
