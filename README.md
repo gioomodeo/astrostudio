@@ -1,7 +1,8 @@
 # AstroStudio
 
-Programma di astrologia per Windows, in italiano: tema natale, transiti, rivoluzione solare, sinastria,
-astrocartografia, bioritmi e un assistente IA che ti supporta nell'interpretazione, con un archivio clienti completo.
+Programma di astrologia per Windows e online, in italiano: tema natale, transiti, rivoluzione solare e lunare,
+sinastria, astrocartografia, effemeridi, bioritmi e un assistente IA, con l'archivio dei clienti e le stampe con il
+nome del tuo studio.
 
 ## Scarica
 
