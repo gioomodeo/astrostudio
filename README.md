@@ -6,7 +6,10 @@ nome del tuo studio.
 
 ## Scarica
 
-**[⬇ Scarica AstroStudio per Windows](https://github.com/gioomodeo/astrostudio/releases/latest/download/AstroStudio_Installazione.msi)**
+Il modo più semplice è il **[Microsoft Store](https://apps.microsoft.com/detail/9P5Q96RVJ4QT)**: si installa senza
+avvisi di Windows e si aggiorna da solo.
+
+Oppure **[⬇ scarica l'installazione per Windows](https://github.com/gioomodeo/astrostudio/releases/latest/download/AstroStudio_Installazione.msi)**
 (file `AstroStudio_Installazione.msi`, sempre l'ultima versione)
 
 - Sito, manuale d'uso e versione online: [astrostudio.web.app](https://astrostudio.web.app)
